@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", serif;
+}
+.SignInBox{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: #f0f8ff93;
+    backdrop-filter: blur(5px);
+    border-radius: 10px;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 60px 50px;
+    justify-items: start;
+    align-items: center;
+}
+.SignInBox h1{
+    align-self: baseline;
+    color: rgb(84, 87, 90);
+}
+.SignInBox input{
+    outline: none;
+    border: 2px solid rgb(129, 124, 124);
+    font-size: 20px;
+    padding:5px 5px 5px 10px;
+    text-transform: capitalize;
+    background-color: transparent;
+    border-radius: 10px;
+}
+.SignInBox input::placeholder{
+color: rgb(132, 128, 128);
+}
+.SignInBox input:focus{
+    border: 3px solid rgb(91, 86, 86);
+}
+.SignInBox button{
+    background-color: #f0f8ff93;
+    font-size: 18px;
+    outline: none;
+    border: none;
+    padding: 10px 20px;
+    justify-self: center;
+    align-self: center;
+    border-radius: 10px;
+    background-color: rgb(0, 89, 255);
+    color: white;
+    font-weight: 400;
+    cursor: pointer;
+}
