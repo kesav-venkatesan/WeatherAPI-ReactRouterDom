@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WeatherAPI-ReactRouterDom/static/css/main.6a29f9c0.css",
+    "main.js": "/WeatherAPI-ReactRouterDom/static/js/main.c5c4dab9.js",
+    "static/media/bootstrap-icons.woff?": "/WeatherAPI-ReactRouterDom/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/WeatherAPI-ReactRouterDom/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/WeatherAPI-ReactRouterDom/index.html",
+    "main.6a29f9c0.css.map": "/WeatherAPI-ReactRouterDom/static/css/main.6a29f9c0.css.map",
+    "main.c5c4dab9.js.map": "/WeatherAPI-ReactRouterDom/static/js/main.c5c4dab9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a29f9c0.css",
+    "static/js/main.c5c4dab9.js"
+  ]
+}
